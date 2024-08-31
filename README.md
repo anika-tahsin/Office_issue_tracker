@@ -1,1 +1,3 @@
-# Office_issue_tracker
+# Backend Django
+# Frontend React
+# Database MySQL

@@ -1,5 +1,0 @@
-Host: mysql-9b200f86-2295-49ac-8a28-04c728e8ad4b-testdb3549766739-cho.b.aivencloud.com
-Port: 14470
-User: avnadmin
-DB: defaultdb
-pass: AVNS_WiOaXOOyAX0qNUNDcTD
